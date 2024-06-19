@@ -1,0 +1,20 @@
+[
+  {
+    "base_code": "MXN",
+    "conversion_rate": 0.05431,
+    "target_code": "USD",
+    "conversion_result": 5.431
+  },
+  {
+    "base_code": "MXN",
+    "conversion_rate": 0.05058,
+    "target_code": "EUR",
+    "conversion_result": 5.058
+  },
+  {
+    "base_code": "MXN",
+    "conversion_rate": 8.5754,
+    "target_code": "JPY",
+    "conversion_result": 857.54
+  }
+]
