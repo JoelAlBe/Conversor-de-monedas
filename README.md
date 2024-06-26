@@ -3,7 +3,7 @@ Conversor de monedas creado con una API.
 
 Para el uso adecuando de este sistema, es necesario tener en cuenta lo siguiente:
 - Para la lectura de opciones, debe de ser del 1 al 10 en números enteros.
-- El programa esta diseñado para repetirse las veces necesarias hasta que el usuario seleccione la opción 10 que es salir. Sólo tecleando el 10 en el menú, es como el progra,a parara.
+- El programa esta diseñado para repetirse las veces necesarias hasta que el usuario seleccione la opción 10 que es salir. Sólo tecleando el 10 en el menú, es como el programa se detendra.
 - Para poder realizar la conversion, se puede hacer con valores enteros o reales, nada más.
 
 Teniendo en cuenta estos puntos importantes, podemos comenzar con el funcionamiento de este programa.
@@ -25,7 +25,5 @@ Paso 1 (Vista principal):
 Paso 2 (Opción seleccionada):
 ![Captura de pantalla (327)](https://github.com/JoelAlBe/Conversor-de-monedas/assets/89107390/eca2d1f0-94f0-4775-85c5-4311ef0e07db)
 
-
-Paso 3 (Salir):
+Paso 3 (Opción de salida):
 ![Captura de pantalla (328)](https://github.com/JoelAlBe/Conversor-de-monedas/assets/89107390/efd50518-7edb-4718-9db8-ea1d2a592e4b)
-
