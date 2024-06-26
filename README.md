@@ -20,8 +20,10 @@ Como se puede verificar, su uso no es complicado, al contrario, es intuitivo par
 Capturas de pantalla:
 Paso 1 (Vista principal):
 ![Captura de pantalla (326)](https://github.com/JoelAlBe/Conversor-de-monedas/assets/89107390/b31cf8d2-3ba7-4a0f-b790-cc218e274c06)
+
 Paso 2 (Opción seleccionada):
 ![Captura de pantalla (327)](https://github.com/JoelAlBe/Conversor-de-monedas/assets/89107390/eca2d1f0-94f0-4775-85c5-4311ef0e07db)
+
 Paso 3 (Salir):
 ![Captura de pantalla (328)](https://github.com/JoelAlBe/Conversor-de-monedas/assets/89107390/efd50518-7edb-4718-9db8-ea1d2a592e4b)
 
